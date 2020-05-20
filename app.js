@@ -50,7 +50,7 @@ app.post('/output', (req, res) => {
    firstName: "",
    age: "",
    env: ""
- }
+ };
 
 // read json data from html body
  const project_data = req.body.project_data;
