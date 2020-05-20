@@ -1,0 +1,5 @@
+...
+- name: {{firstName}}
+  age: {{age}}
+  env: {{env}} 
+  data: non-prod
