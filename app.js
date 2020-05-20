@@ -1,7 +1,7 @@
 const Handlebars = require('handlebars');
 const bodyParser = require('body-parser');
 const express = require('express');
-const fs = require('fs')
+const fs = require('fs');
 
 
 const app = express();
